@@ -4,9 +4,6 @@ This repository contains scripts and documentation for my HomeLab builds. My set
 
 ## Index
 
-- [Setup Guide](setup-guide.md)
-- [Network Configuration](network-configuration.md)
-- [Server Installation](server-installation.md)
-- [Monitoring and Maintenance](monitoring-maintenance.md)
-- [Troubleshooting](troubleshooting.md)
-- [FAQ](faq.md)
+- [Network Configuration](network.md)
+- [HomeLab Hardware and Configuration](homelab.md)
+- [Services and Applications](services.md)
