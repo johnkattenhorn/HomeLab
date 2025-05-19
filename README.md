@@ -4,6 +4,6 @@ This repository contains scripts and documentation for my HomeLab builds. My set
 
 ## Index
 
-- [Network Configuration](/network.md)
-- [HomeLab Hardware and Configuration](/homelab.md)
-- [Services and Applications](/services.md)
+- [Network Configuration](Network.md)
+- [HomeLab Hardware and Configuration](Homelab.md)
+- [Services and Applications](Services.md)
