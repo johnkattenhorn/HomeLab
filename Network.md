@@ -8,28 +8,32 @@
 
 ## Static IP Address Assignments
 
-| Device Name       | IP Address      | MAC Address           |
-|-------------------|-----------------|-----------------------|
-| Router              | 192.168.1.1     | 00:1A:2B:3C:4D:5E     |
-| EdgeServices        | 192.168.1.2     | 00:1A:2B:3C:4D:5F     |
-| Server              | 192.168.1.3     | 00:1A:2B:3C:4D:60     |
-| Wifi Access Point 1 | 192.168.1.4     | 00:1A:2B:3C:4D:61     |
-| Wifi Access Point 2 | 192.168.1.5     | 00:1A:2B:3C:4D:62     |
+| **Device Name**       | **IP Address**      | **MAC Address**           |
+|-----------------------|---------------------|---------------------------|
+| Router                | 192.168.1.1         |                           |
+| Edge                  | 192.168.1.2         |                           |
+| Server1               | 192.168.1.10        |                           |
+| Deployrr              | 192.168.1.11        |                           |
+| Server2               | 192.168.1.15        |                           |
+| Wifi Access Point 1   | 192.168.1.21        |                           |
+| Wifi Access Point 2   | 192.168.1.22        |                           |
+| Wifi Access Point 3   | 192.168.1.23        |                           |
+| Wifi Access Point 4   | 192.168.1.24        |                           |
 
 ## DHCP Pool
 
-- **Start Address:** 192.168.1.100
+- **Start Address:** 192.168.1.60
 - **End Address:** 192.168.1.200
-- **Lease Time:** 24 hours
+- **Lease Time:** 1 hour
 
 ## Internal DNS
 
-- Internal domain suffix = `kattenhorn.tech`
+- Internal domain suffix = `khn.family`
 - References internal IP addresses
 
 ## External DNS
 
-- External domain suffix - `kattenhorn.tech`
+- External domain suffix - `khn.family`
 - References external IP addresses
 
 ## Edge Services
