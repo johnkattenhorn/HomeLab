@@ -36,11 +36,15 @@
 |                        | Ollama            | ollama_container    | ollama_data    | ollama.khn.family          | ollama.khn.family                     | 192.168.1.12   | [ollama.ai](https://ollama.ai) |
 | **Collaboration**      | Huly              | huly_container      | huly_data      | huly.khn.family            | huly.khn.family                       | 192.168.1.11   | [huly.io](https://huly.io) |
 |                        | Plane             | plane_container     | plane_data     | plane.khn.family           | plane.khn.family                      | 192.168.1.11   | [plane.so](https://plane.so) |
+|                        | AppFlowy          | appflowy_container  | appflowy_data  | appflowy.khn.family        | appflowy.khn.family                      | 192.168.1.11   | [appflowy.com](https://appflowy.com/) |
 | **Programming**        | Gitea             | gitea_container     | gitea_data     | git.khn.family             | git.khn.family                        | 192.168.1.11   | [gitea.io](https://gitea.io) |
+|                        | OneDev            | onedev_container    | onedev_data    | onedev.khn.family          | onedev.khn.family                        | 192.168.1.11 | [onedev.io](https://onedev.io) |
 |                        | SonarCube         | sonar_container     | sonar_data     | sonar.khn.family           | sonar.khn.family                      | 192.168.1.11   | [sonarqube](https://www.sonarsource.com/products/sonarqube) |
 | **Social Media**       | Postiz            | postiz_container    | postiz_data    | postiz.khn.family          | postiz.khn.family                     | 192.168.1.11   | [postiz.com](https://postiz.com) |
 | **Identity**           | Zitadel           | zitadel_container   | zitadel_data   | zitadel.khn.family         | zitadel.khn.family                    | 192.168.1.11   | [zitadel.com](https://zitadel.com) |
 | **Monitoring**         | Checkmate         | checkmate_container | checkmate_data | checkmate.khn.family       | checkmate.khn.family                  | 192.168.1.11   | [checkmate.so](https://checkmate.so) |
+| **ERP**               | odoo               | odoo_container      | odoo_data      | odoo.khn.family            | odoo.khn.family                  | 192.168.1.11   | [odoo.com](https://odoo.com) |
+
 
 ## Notes
 
